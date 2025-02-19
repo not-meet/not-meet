@@ -10,10 +10,22 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
+
       - uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GH_PAT: ${{ secrets.GH_PAT }}
         with:
           COMMIT_MSG: "Updated README with recent activity"
           MAX_LINES: 10
+
+      - name: Commit and Push Changes
+        run: |
+          git add README.md
+          git diff --cached --exit-code || (git commit -m "Updated README with recent activity" && git push origin master)
