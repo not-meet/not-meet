@@ -14,16 +14,16 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#31](https://github.com/RocketChat/Apps.QuickReplies/issues/31) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-2. 🗣 Commented on [#30](https://github.com/RocketChat/Apps.QuickReplies/pull/30#issuecomment-2664156075) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-3. 🗣 Commented on [#30](https://github.com/RocketChat/Apps.QuickReplies/pull/30#issuecomment-2664154949) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-4. 💪 Opened PR [#30](https://github.com/RocketChat/Apps.QuickReplies/pull/30) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-5. 🗣 Commented on [#29](https://github.com/RocketChat/Apps.QuickReplies/issues/29#issuecomment-2664139632) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-6. ❗ Opened issue [#29](https://github.com/RocketChat/Apps.QuickReplies/issues/29) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-7. 🔒 Closed issue [#27](https://github.com/RocketChat/Apps.QuickReplies/issues/27) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-8. 💪 Opened PR [#28](https://github.com/RocketChat/Apps.QuickReplies/pull/28) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-9. 🗣 Commented on [#27](https://github.com/RocketChat/Apps.QuickReplies/issues/27#issuecomment-2660159410) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-10. 🗣 Commented on [#27](https://github.com/RocketChat/Apps.QuickReplies/issues/27#issuecomment-2656930345) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+1. 🗣 Commented on [#30](https://github.com/RocketChat/Apps.QuickReplies/pull/30#issuecomment-2669935142) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+2. ❗ Opened issue [#31](https://github.com/RocketChat/Apps.QuickReplies/issues/31) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+3. 🗣 Commented on [#30](https://github.com/RocketChat/Apps.QuickReplies/pull/30#issuecomment-2664156075) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+4. 🗣 Commented on [#30](https://github.com/RocketChat/Apps.QuickReplies/pull/30#issuecomment-2664154949) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+5. 💪 Opened PR [#30](https://github.com/RocketChat/Apps.QuickReplies/pull/30) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+6. 🗣 Commented on [#29](https://github.com/RocketChat/Apps.QuickReplies/issues/29#issuecomment-2664139632) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+7. ❗ Opened issue [#29](https://github.com/RocketChat/Apps.QuickReplies/issues/29) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+8. 🔒 Closed issue [#27](https://github.com/RocketChat/Apps.QuickReplies/issues/27) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+9. 💪 Opened PR [#28](https://github.com/RocketChat/Apps.QuickReplies/pull/28) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+10. 🗣 Commented on [#27](https://github.com/RocketChat/Apps.QuickReplies/issues/27#issuecomment-2660159410) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
 <!--END_SECTION:activity-->
 
 
