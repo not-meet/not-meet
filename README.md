@@ -19,11 +19,11 @@
 3. 🗣 Commented on [#23](https://github.com/RocketChat/Apps.QuickReplies/pull/23#issuecomment-2689334541) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
 4. 🗣 Commented on [#23](https://github.com/RocketChat/Apps.QuickReplies/pull/23#issuecomment-2689331261) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
 5. 🗣 Commented on [#23](https://github.com/RocketChat/Apps.QuickReplies/pull/23#issuecomment-2689325366) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-6. 💪 Opened PR [#1](https://github.com/Siddharthakhandelwal/Agent/pull/1) in [Siddharthakhandelwal/Agent](https://github.com/Siddharthakhandelwal/Agent)
-7. 🗣 Commented on [#45](https://github.com/RocketChat/Apps.QuickReplies/issues/45#issuecomment-2687738982) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-8. 🗣 Commented on [#45](https://github.com/RocketChat/Apps.QuickReplies/issues/45#issuecomment-2687734279) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-9. 🗣 Commented on [#23](https://github.com/RocketChat/Apps.QuickReplies/pull/23#issuecomment-2686531180) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-10. 💪 Opened PR [#44](https://github.com/RocketChat/Apps.QuickReplies/pull/44) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+6. 🗣 Commented on [#45](https://github.com/RocketChat/Apps.QuickReplies/issues/45#issuecomment-2687738982) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+7. 🗣 Commented on [#45](https://github.com/RocketChat/Apps.QuickReplies/issues/45#issuecomment-2687734279) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+8. 🗣 Commented on [#23](https://github.com/RocketChat/Apps.QuickReplies/pull/23#issuecomment-2686531180) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+9. 💪 Opened PR [#44](https://github.com/RocketChat/Apps.QuickReplies/pull/44) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+10. 🗣 Commented on [#39](https://github.com/RocketChat/Apps.QuickReplies/pull/39#issuecomment-2686307528) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
 <!--END_SECTION:activity-->
 
 
