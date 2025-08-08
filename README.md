@@ -14,10 +14,10 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/RocketChat/Apps.QuickReplies/issues/53#issuecomment-2732509962) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-2. 🗣 Commented on [#45](https://github.com/RocketChat/Apps.QuickReplies/issues/45#issuecomment-2715700287) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-3. 🗣 Commented on [#23](https://github.com/RocketChat/Apps.QuickReplies/pull/23#issuecomment-2690993042) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-4. 🗣 Commented on [#23](https://github.com/RocketChat/Apps.QuickReplies/pull/23#issuecomment-2690985464) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+1. 🎉 Merged PR [#2](https://github.com/useFona/fona-web/pull/2) in [useFona/fona-web](https://github.com/useFona/fona-web)
+2. 💪 Opened PR [#2](https://github.com/useFona/fona-web/pull/2) in [useFona/fona-web](https://github.com/useFona/fona-web)
+3. 🎉 Merged PR [#1](https://github.com/useFona/fona-web/pull/1) in [useFona/fona-web](https://github.com/useFona/fona-web)
+4. 💪 Opened PR [#1](https://github.com/useFona/fona-web/pull/1) in [useFona/fona-web](https://github.com/useFona/fona-web)
 5. 🗣 Commented on [#23](https://github.com/RocketChat/Apps.QuickReplies/pull/23#issuecomment-2689334541) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
 6. 🗣 Commented on [#23](https://github.com/RocketChat/Apps.QuickReplies/pull/23#issuecomment-2689331261) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
 7. 🗣 Commented on [#23](https://github.com/RocketChat/Apps.QuickReplies/pull/23#issuecomment-2689325366) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
