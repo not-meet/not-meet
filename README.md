@@ -14,10 +14,10 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/useFona/fona-extension/pull/1) in [useFona/fona-extension](https://github.com/useFona/fona-extension)
-2. 💪 Opened PR [#1](https://github.com/useFona/fona-extension/pull/1) in [useFona/fona-extension](https://github.com/useFona/fona-extension)
-3. 🎉 Merged PR [#3](https://github.com/useFona/fona-web/pull/3) in [useFona/fona-web](https://github.com/useFona/fona-web)
-4. 💪 Opened PR [#3](https://github.com/useFona/fona-web/pull/3) in [useFona/fona-web](https://github.com/useFona/fona-web)
+1. 💪 Opened PR [#1](undefined) in [useFona/fona-extension](https://github.com/useFona/fona-extension)
+2. 💪 Opened PR [#3](undefined) in [useFona/fona-web](https://github.com/useFona/fona-web)
+3. 💪 Opened PR [#39](undefined) in [lirena00/monochromate](https://github.com/lirena00/monochromate)
+4. 💪 Opened PR [#38](undefined) in [lirena00/monochromate](https://github.com/lirena00/monochromate)
 5. 💪 Opened PR [#39](https://github.com/lirena00/monochromate/pull/39) in [lirena00/monochromate](https://github.com/lirena00/monochromate)
 6. 💪 Opened PR [#38](https://github.com/lirena00/monochromate/pull/38) in [lirena00/monochromate](https://github.com/lirena00/monochromate)
 7. 🎉 Merged PR [#2](https://github.com/useFona/fona-web/pull/2) in [useFona/fona-web](https://github.com/useFona/fona-web)
