@@ -14,8 +14,8 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/useFona/fona-extension/pull/1) in [useFona/fona-extension](https://github.com/useFona/fona-extension)
-2. 💪 Opened PR [#1](https://github.com/useFona/fona-extension/pull/1) in [useFona/fona-extension](https://github.com/useFona/fona-extension)
+1. 💪 Opened PR [#1](undefined) in [useFona/fona-extension](https://github.com/useFona/fona-extension)
+2. 💪 Opened PR [#3](undefined) in [useFona/fona-web](https://github.com/useFona/fona-web)
 3. 🎉 Merged PR [#3](https://github.com/useFona/fona-web/pull/3) in [useFona/fona-web](https://github.com/useFona/fona-web)
 4. 💪 Opened PR [#3](https://github.com/useFona/fona-web/pull/3) in [useFona/fona-web](https://github.com/useFona/fona-web)
 5. 💪 Opened PR [#39](https://github.com/lirena00/monochromate/pull/39) in [lirena00/monochromate](https://github.com/lirena00/monochromate)
