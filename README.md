@@ -14,7 +14,7 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/useFona/fona-extension/pull/1) in [useFona/fona-extension](https://github.com/useFona/fona-extension)
+1. ❗ Opened issue [#22](https://github.com/RocketChat/Apps.EmailBridgeNLP/issues/22) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
 2. 💪 Opened PR [#1](https://github.com/useFona/fona-extension/pull/1) in [useFona/fona-extension](https://github.com/useFona/fona-extension)
 3. 🎉 Merged PR [#3](https://github.com/useFona/fona-web/pull/3) in [useFona/fona-web](https://github.com/useFona/fona-web)
 4. 💪 Opened PR [#3](https://github.com/useFona/fona-web/pull/3) in [useFona/fona-web](https://github.com/useFona/fona-web)
