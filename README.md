@@ -14,9 +14,9 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64](https://github.com/RocketChat/Apps.QuickReplies/pull/64) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-2. ❗ Opened issue [#10](https://github.com/RocketChat/Apps.AutomatedChatWorkflows/issues/10) in [RocketChat/Apps.AutomatedChatWorkflows](https://github.com/RocketChat/Apps.AutomatedChatWorkflows)
-3. ❗ Opened issue [#22](https://github.com/RocketChat/Apps.EmailBridgeNLP/issues/22) in [RocketChat/Apps.EmailBridgeNLP](https://github.com/RocketChat/Apps.EmailBridgeNLP)
+1. 💪 Opened PR [#21](https://github.com/RocketChat/Apps.AutomatedChatWorkflows/pull/21) in [RocketChat/Apps.AutomatedChatWorkflows](https://github.com/RocketChat/Apps.AutomatedChatWorkflows)
+2. 💪 Opened PR [#64](https://github.com/RocketChat/Apps.QuickReplies/pull/64) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+3. ❗ Opened issue [#10](https://github.com/RocketChat/Apps.AutomatedChatWorkflows/issues/10) in [RocketChat/Apps.AutomatedChatWorkflows](https://github.com/RocketChat/Apps.AutomatedChatWorkflows)
 4. 💪 Opened PR [#3](https://github.com/useFona/fona-web/pull/3) in [useFona/fona-web](https://github.com/useFona/fona-web)
 5. 💪 Opened PR [#39](https://github.com/lirena00/monochromate/pull/39) in [lirena00/monochromate](https://github.com/lirena00/monochromate)
 6. 💪 Opened PR [#38](https://github.com/lirena00/monochromate/pull/38) in [lirena00/monochromate](https://github.com/lirena00/monochromate)
