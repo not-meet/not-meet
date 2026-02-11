@@ -14,14 +14,14 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/RocketChat/Apps.AutomatedChatWorkflows/pull/24) in [RocketChat/Apps.AutomatedChatWorkflows](https://github.com/RocketChat/Apps.AutomatedChatWorkflows)
-2. 🎉 Merged PR [#1](https://github.com/not-meet/fona-web/pull/1) in [not-meet/fona-web](https://github.com/not-meet/fona-web)
-3. 💪 Opened PR [#1](https://github.com/not-meet/fona-web/pull/1) in [not-meet/fona-web](https://github.com/not-meet/fona-web)
-4. 💪 Opened PR [#21](https://github.com/RocketChat/Apps.AutomatedChatWorkflows/pull/21) in [RocketChat/Apps.AutomatedChatWorkflows](https://github.com/RocketChat/Apps.AutomatedChatWorkflows)
-5. 💪 Opened PR [#64](https://github.com/RocketChat/Apps.QuickReplies/pull/64) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-6. 💪 Opened PR [#38](https://github.com/lirena00/monochromate/pull/38) in [lirena00/monochromate](https://github.com/lirena00/monochromate)
-7. 🎉 Merged PR [#2](https://github.com/useFona/fona-web/pull/2) in [useFona/fona-web](https://github.com/useFona/fona-web)
-8. 💪 Opened PR [#2](https://github.com/useFona/fona-web/pull/2) in [useFona/fona-web](https://github.com/useFona/fona-web)
+1. 💪 Opened PR [#67](https://github.com/RocketChat/Apps.QuickReplies/pull/67) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+2. ℹ️ Labeled issue [#66](https://github.com/RocketChat/Apps.QuickReplies/issues/66) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+3. ❗ Opened issue [#66](https://github.com/RocketChat/Apps.QuickReplies/issues/66) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+4. 💪 Opened PR [#24](https://github.com/RocketChat/Apps.AutomatedChatWorkflows/pull/24) in [RocketChat/Apps.AutomatedChatWorkflows](https://github.com/RocketChat/Apps.AutomatedChatWorkflows)
+5. 🎉 Merged PR [#1](https://github.com/not-meet/fona-web/pull/1) in [not-meet/fona-web](https://github.com/not-meet/fona-web)
+6. 💪 Opened PR [#1](https://github.com/not-meet/fona-web/pull/1) in [not-meet/fona-web](https://github.com/not-meet/fona-web)
+7. 💪 Opened PR [#21](https://github.com/RocketChat/Apps.AutomatedChatWorkflows/pull/21) in [RocketChat/Apps.AutomatedChatWorkflows](https://github.com/RocketChat/Apps.AutomatedChatWorkflows)
+8. 💪 Opened PR [#64](https://github.com/RocketChat/Apps.QuickReplies/pull/64) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
 9. 🎉 Merged PR [#1](https://github.com/useFona/fona-web/pull/1) in [useFona/fona-web](https://github.com/useFona/fona-web)
 10. 💪 Opened PR [#1](https://github.com/useFona/fona-web/pull/1) in [useFona/fona-web](https://github.com/useFona/fona-web)
 <!--END_SECTION:activity-->
