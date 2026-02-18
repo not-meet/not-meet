@@ -14,16 +14,16 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/RocketChat/Apps.AutomatedChatWorkflows/pull/24#issuecomment-3911032447) in [RocketChat/Apps.AutomatedChatWorkflows](https://github.com/RocketChat/Apps.AutomatedChatWorkflows)
-2. 🗣 Commented on [#64](https://github.com/RocketChat/Apps.QuickReplies/pull/64#issuecomment-3911023717) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-3. 🗣 Commented on [#67](https://github.com/RocketChat/Apps.QuickReplies/pull/67#issuecomment-3911018314) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-4. 💪 Opened PR [#67](https://github.com/RocketChat/Apps.QuickReplies/pull/67) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-5. ℹ️ Labeled issue [#66](https://github.com/RocketChat/Apps.QuickReplies/issues/66) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-6. ❗ Opened issue [#66](https://github.com/RocketChat/Apps.QuickReplies/issues/66) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-7. 💪 Opened PR [#24](https://github.com/RocketChat/Apps.AutomatedChatWorkflows/pull/24) in [RocketChat/Apps.AutomatedChatWorkflows](https://github.com/RocketChat/Apps.AutomatedChatWorkflows)
-8. 🎉 Merged PR [#1](https://github.com/not-meet/fona-web/pull/1) in [not-meet/fona-web](https://github.com/not-meet/fona-web)
-9. 💪 Opened PR [#1](https://github.com/not-meet/fona-web/pull/1) in [not-meet/fona-web](https://github.com/not-meet/fona-web)
-10. 💪 Opened PR [#21](https://github.com/RocketChat/Apps.AutomatedChatWorkflows/pull/21) in [RocketChat/Apps.AutomatedChatWorkflows](https://github.com/RocketChat/Apps.AutomatedChatWorkflows)
+1. 💪 Opened PR [#1160](https://github.com/RocketChat/EmbeddedChat/pull/1160) in [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
+2. ℹ️ Labeled issue [#1159](https://github.com/RocketChat/EmbeddedChat/issues/1159) in [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
+3. ❗ Opened issue [#1159](https://github.com/RocketChat/EmbeddedChat/issues/1159) in [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
+4. 🗣 Commented on [#24](https://github.com/RocketChat/Apps.AutomatedChatWorkflows/pull/24#issuecomment-3911032447) in [RocketChat/Apps.AutomatedChatWorkflows](https://github.com/RocketChat/Apps.AutomatedChatWorkflows)
+5. 🗣 Commented on [#64](https://github.com/RocketChat/Apps.QuickReplies/pull/64#issuecomment-3911023717) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+6. 🗣 Commented on [#67](https://github.com/RocketChat/Apps.QuickReplies/pull/67#issuecomment-3911018314) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+7. 💪 Opened PR [#67](https://github.com/RocketChat/Apps.QuickReplies/pull/67) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+8. ℹ️ Labeled issue [#66](https://github.com/RocketChat/Apps.QuickReplies/issues/66) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+9. ❗ Opened issue [#66](https://github.com/RocketChat/Apps.QuickReplies/issues/66) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+10. 💪 Opened PR [#24](https://github.com/RocketChat/Apps.AutomatedChatWorkflows/pull/24) in [RocketChat/Apps.AutomatedChatWorkflows](https://github.com/RocketChat/Apps.AutomatedChatWorkflows)
 <!--END_SECTION:activity-->
 
 
