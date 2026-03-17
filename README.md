@@ -14,16 +14,16 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1170](https://github.com/RocketChat/EmbeddedChat/pull/1170#issuecomment-3989793672) in [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
-2. 💪 Opened PR [#1170](https://github.com/RocketChat/EmbeddedChat/pull/1170) in [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
-3. ℹ️ Labeled issue [#1169](https://github.com/RocketChat/EmbeddedChat/issues/1169) in [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
-4. ❗ Opened issue [#1169](https://github.com/RocketChat/EmbeddedChat/issues/1169) in [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
-5. 💪 Opened PR [#38887](https://github.com/RocketChat/Rocket.Chat/pull/38887) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-6. 🗣 Commented on [#38862](https://github.com/RocketChat/Rocket.Chat/issues/38862#issuecomment-3938372038) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-7. ❗ Opened issue [#38862](https://github.com/RocketChat/Rocket.Chat/issues/38862) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-8. 🗣 Commented on [#1161](https://github.com/RocketChat/EmbeddedChat/issues/1161#issuecomment-3927589943) in [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
-9. 💪 Opened PR [#1162](https://github.com/RocketChat/EmbeddedChat/pull/1162) in [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
-10. ℹ️ Labeled issue [#1161](https://github.com/RocketChat/EmbeddedChat/issues/1161) in [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
+1. 🗣 Commented on [#71](https://github.com/RocketChat/Apps.QuickReplies/pull/71#issuecomment-4074508656) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+2. 🗣 Commented on [#70](https://github.com/RocketChat/Apps.QuickReplies/issues/70#issuecomment-4074473162) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+3. 🗣 Commented on [#1170](https://github.com/RocketChat/EmbeddedChat/pull/1170#issuecomment-3989793672) in [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
+4. 💪 Opened PR [#1170](https://github.com/RocketChat/EmbeddedChat/pull/1170) in [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
+5. ℹ️ Labeled issue [#1169](https://github.com/RocketChat/EmbeddedChat/issues/1169) in [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
+6. ❗ Opened issue [#1169](https://github.com/RocketChat/EmbeddedChat/issues/1169) in [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
+7. 💪 Opened PR [#38887](https://github.com/RocketChat/Rocket.Chat/pull/38887) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+8. 🗣 Commented on [#38862](https://github.com/RocketChat/Rocket.Chat/issues/38862#issuecomment-3938372038) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+9. ❗ Opened issue [#38862](https://github.com/RocketChat/Rocket.Chat/issues/38862) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+10. 🗣 Commented on [#1161](https://github.com/RocketChat/EmbeddedChat/issues/1161#issuecomment-3927589943) in [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
 <!--END_SECTION:activity-->
 
 
