@@ -14,8 +14,8 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/RocketChat/Apps.QuickReplies/pull/64) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
-2. 🎉 Merged PR [#67](https://github.com/RocketChat/Apps.QuickReplies/pull/67) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
+1. 🎉 Merged PR [#9](https://github.com/satwiksps/GSoC_archive_2026/pull/9) in [satwiksps/GSoC_archive_2026](https://github.com/satwiksps/GSoC_archive_2026)
+2. 💪 Opened PR [#9](https://github.com/satwiksps/GSoC_archive_2026/pull/9) in [satwiksps/GSoC_archive_2026](https://github.com/satwiksps/GSoC_archive_2026)
 3. 🗣 Commented on [#71](https://github.com/RocketChat/Apps.QuickReplies/pull/71#issuecomment-4074508656) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
 4. 🗣 Commented on [#70](https://github.com/RocketChat/Apps.QuickReplies/issues/70#issuecomment-4074473162) in [RocketChat/Apps.QuickReplies](https://github.com/RocketChat/Apps.QuickReplies)
 5. 🗣 Commented on [#1170](https://github.com/RocketChat/EmbeddedChat/pull/1170#issuecomment-3989793672) in [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
