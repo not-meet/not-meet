@@ -14,16 +14,16 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#12](https://github.com/RocketChat/Apps.SpamMonitor/pull/12) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-2. ℹ️ Labeled PR [#12](https://github.com/RocketChat/Apps.SpamMonitor/pull/12) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-3. 💪 Opened PR [#12](https://github.com/RocketChat/Apps.SpamMonitor/pull/12) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-4. 🎉 Merged PR [#11](https://github.com/RocketChat/Apps.SpamMonitor/pull/11) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-5. ℹ️ Labeled issue [#10](https://github.com/RocketChat/Apps.SpamMonitor/issues/10) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-6. ❗ Opened issue [#10](https://github.com/RocketChat/Apps.SpamMonitor/issues/10) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-7. ℹ️ Labeled issue [#10](https://github.com/RocketChat/Apps.SpamMonitor/issues/10) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-8. 💪 Opened PR [#11](https://github.com/RocketChat/Apps.SpamMonitor/pull/11) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-9. ℹ️ Assigned issue [#10](https://github.com/RocketChat/Apps.SpamMonitor/issues/10) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-10. 🔒 Closed issue [#5](https://github.com/RocketChat/Apps.SpamMonitor/issues/5) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
+1. ℹ️ Labeled issue [#13](https://github.com/RocketChat/Apps.SpamMonitor/issues/13) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
+2. ℹ️ Assigned issue [#13](https://github.com/RocketChat/Apps.SpamMonitor/issues/13) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
+3. ❗ Opened issue [#13](https://github.com/RocketChat/Apps.SpamMonitor/issues/13) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
+4. ℹ️ Assigned PR [#12](https://github.com/RocketChat/Apps.SpamMonitor/pull/12) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
+5. ℹ️ Labeled PR [#12](https://github.com/RocketChat/Apps.SpamMonitor/pull/12) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
+6. 💪 Opened PR [#12](https://github.com/RocketChat/Apps.SpamMonitor/pull/12) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
+7. 🎉 Merged PR [#11](https://github.com/RocketChat/Apps.SpamMonitor/pull/11) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
+8. ℹ️ Labeled issue [#10](https://github.com/RocketChat/Apps.SpamMonitor/issues/10) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
+9. ❗ Opened issue [#10](https://github.com/RocketChat/Apps.SpamMonitor/issues/10) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
+10. ℹ️ Labeled issue [#10](https://github.com/RocketChat/Apps.SpamMonitor/issues/10) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
 <!--END_SECTION:activity-->
 
 
