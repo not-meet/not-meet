@@ -14,16 +14,16 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8033](https://github.com/kubernetes-sigs/headlamp/pull/8033) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-2. ℹ️ Labeled issue [#8032](https://github.com/kubernetes-sigs/headlamp/issues/8032) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-3. ❗ Opened issue [#8032](https://github.com/kubernetes-sigs/headlamp/issues/8032) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-4. 🎉 Merged PR [#65](https://github.com/RocketChat/Apps.SpamMonitor/pull/65) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-5. 💪 Opened PR [#65](https://github.com/RocketChat/Apps.SpamMonitor/pull/65) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-6. 🎉 Merged PR [#64](https://github.com/RocketChat/Apps.SpamMonitor/pull/64) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-7. 🎉 Merged PR [#61](https://github.com/RocketChat/Apps.SpamMonitor/pull/61) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-8. 🎉 Merged PR [#60](https://github.com/RocketChat/Apps.SpamMonitor/pull/60) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-9. 💪 Opened PR [#61](https://github.com/RocketChat/Apps.SpamMonitor/pull/61) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-10. 💪 Opened PR [#60](https://github.com/RocketChat/Apps.SpamMonitor/pull/60) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
+1. 🗣 Commented on [#8038](https://github.com/kubernetes-sigs/headlamp/issues/8038#issuecomment-6297969126) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+2. 🗣 Commented on [#8032](https://github.com/kubernetes-sigs/headlamp/issues/8032#issuecomment-6297963176) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+3. 💪 Opened PR [#8039](https://github.com/kubernetes-sigs/headlamp/pull/8039) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+4. ❗ Opened issue [#8038](https://github.com/kubernetes-sigs/headlamp/issues/8038) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+5. ℹ️ Labeled issue [#8038](https://github.com/kubernetes-sigs/headlamp/issues/8038) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+6. 💪 Opened PR [#8033](https://github.com/kubernetes-sigs/headlamp/pull/8033) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+7. ℹ️ Labeled issue [#8032](https://github.com/kubernetes-sigs/headlamp/issues/8032) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+8. ❗ Opened issue [#8032](https://github.com/kubernetes-sigs/headlamp/issues/8032) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+9. 🎉 Merged PR [#65](https://github.com/RocketChat/Apps.SpamMonitor/pull/65) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
+10. 💪 Opened PR [#65](https://github.com/RocketChat/Apps.SpamMonitor/pull/65) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
 <!--END_SECTION:activity-->
 
 
