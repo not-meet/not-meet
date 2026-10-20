@@ -14,12 +14,12 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/RocketChat/Apps.SpamMonitor/pull/65) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-2. 💪 Opened PR [#65](https://github.com/RocketChat/Apps.SpamMonitor/pull/65) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-3. 🎉 Merged PR [#64](https://github.com/RocketChat/Apps.SpamMonitor/pull/64) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-4. 💪 Opened PR [#64](https://github.com/RocketChat/Apps.SpamMonitor/pull/64) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-5. 🎉 Merged PR [#63](https://github.com/RocketChat/Apps.SpamMonitor/pull/63) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
-6. 💪 Opened PR [#63](https://github.com/RocketChat/Apps.SpamMonitor/pull/63) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
+1. 💪 Opened PR [#8033](https://github.com/kubernetes-sigs/headlamp/pull/8033) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+2. ℹ️ Labeled issue [#8032](https://github.com/kubernetes-sigs/headlamp/issues/8032) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+3. ❗ Opened issue [#8032](https://github.com/kubernetes-sigs/headlamp/issues/8032) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+4. 🎉 Merged PR [#65](https://github.com/RocketChat/Apps.SpamMonitor/pull/65) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
+5. 💪 Opened PR [#65](https://github.com/RocketChat/Apps.SpamMonitor/pull/65) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
+6. 🎉 Merged PR [#64](https://github.com/RocketChat/Apps.SpamMonitor/pull/64) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
 7. 🎉 Merged PR [#61](https://github.com/RocketChat/Apps.SpamMonitor/pull/61) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
 8. 🎉 Merged PR [#60](https://github.com/RocketChat/Apps.SpamMonitor/pull/60) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
 9. 💪 Opened PR [#61](https://github.com/RocketChat/Apps.SpamMonitor/pull/61) in [RocketChat/Apps.SpamMonitor](https://github.com/RocketChat/Apps.SpamMonitor)
