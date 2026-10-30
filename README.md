@@ -14,16 +14,16 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8033](https://github.com/kubernetes-sigs/headlamp/pull/8033#issuecomment-6327316339) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-2. 🗣 Commented on [#8039](https://github.com/kubernetes-sigs/headlamp/pull/8039#issuecomment-6325411247) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-3. 🗣 Commented on [#8038](https://github.com/kubernetes-sigs/headlamp/issues/8038#issuecomment-6297969126) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-4. 🗣 Commented on [#8032](https://github.com/kubernetes-sigs/headlamp/issues/8032#issuecomment-6297963176) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-5. 💪 Opened PR [#8039](https://github.com/kubernetes-sigs/headlamp/pull/8039) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-6. ❗ Opened issue [#8038](https://github.com/kubernetes-sigs/headlamp/issues/8038) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-7. ℹ️ Labeled issue [#8038](https://github.com/kubernetes-sigs/headlamp/issues/8038) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-8. 💪 Opened PR [#8033](https://github.com/kubernetes-sigs/headlamp/pull/8033) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-9. ℹ️ Labeled issue [#8032](https://github.com/kubernetes-sigs/headlamp/issues/8032) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-10. ❗ Opened issue [#8032](https://github.com/kubernetes-sigs/headlamp/issues/8032) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+1. 🗣 Commented on [#8033](https://github.com/kubernetes-sigs/headlamp/pull/8033#issuecomment-6499176938) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+2. 🗣 Commented on [#8033](https://github.com/kubernetes-sigs/headlamp/pull/8033#issuecomment-6327316339) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+3. 🗣 Commented on [#8039](https://github.com/kubernetes-sigs/headlamp/pull/8039#issuecomment-6325411247) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+4. 🗣 Commented on [#8038](https://github.com/kubernetes-sigs/headlamp/issues/8038#issuecomment-6297969126) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+5. 🗣 Commented on [#8032](https://github.com/kubernetes-sigs/headlamp/issues/8032#issuecomment-6297963176) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+6. 💪 Opened PR [#8039](https://github.com/kubernetes-sigs/headlamp/pull/8039) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+7. ❗ Opened issue [#8038](https://github.com/kubernetes-sigs/headlamp/issues/8038) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+8. ℹ️ Labeled issue [#8038](https://github.com/kubernetes-sigs/headlamp/issues/8038) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+9. 💪 Opened PR [#8033](https://github.com/kubernetes-sigs/headlamp/pull/8033) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+10. ℹ️ Labeled issue [#8032](https://github.com/kubernetes-sigs/headlamp/issues/8032) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
 <!--END_SECTION:activity-->
 
 
